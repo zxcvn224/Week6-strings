@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\StringsExercise\obj\Debug\netcoreapp3.1\StringsExercise.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\StringsExercise\obj\Debug\netcoreapp3.1\StringsExercise.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\StringsExercise\obj\Debug\netcoreapp3.1\StringsExercise.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe21\ForLoopsAndStrings\StringsExercise\obj\Debug\netcoreapp3.1\StringsExercise.csproj.CoreCompileInputs.cache
